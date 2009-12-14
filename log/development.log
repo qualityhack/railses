@@ -671,3 +671,99 @@ Completed in 4ms (View: 1, DB: 2) | 200 OK [http://localhost/Say/hello]
 Processing SayController#hello (for 127.0.0.1 at 2009-12-13 18:39:34) [GET]
 Rendering say/hello
 Completed in 20ms (View: 2, DB: 2) | 200 OK [http://localhost/Say/hello]
+  [4;36;1mSQL (1.1ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSET client_min_messages TO 'notice'[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 18:48:27) [GET]
+Rendering say/hello
+Completed in 259ms (View: 254, DB: 3) | 200 OK [http://localhost/Say/hello]
+  [4;35;1mSQL (0.6ms)[0m   [0mSET client_min_messages TO 'panic'[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET client_min_messages TO 'notice'[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 18:49:26) [GET]
+Rendering say/hello
+Completed in 8ms (View: 6, DB: 2) | 200 OK [http://localhost/Say/hello]
+  [4;36;1mSQL (2.0ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET client_min_messages TO 'notice'[0m
+  [4;36;1mSQL (1.1ms)[0m   [0;1mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 18:49:29) [GET]
+Rendering say/hello
+Completed in 4ms (View: 1, DB: 3) | 200 OK [http://localhost/Say/hello]
+  [4;35;1mSQL (1.0ms)[0m   [0mSET client_min_messages TO 'panic'[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET client_min_messages TO 'notice'[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 18:49:43) [GET]
+Rendering say/hello
+Completed in 181ms (View: 178, DB: 2) | 200 OK [http://localhost/Say/hello]
+  [4;36;1mSQL (0.6ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSET client_min_messages TO 'notice'[0m
+  [4;36;1mSQL (0.4ms)[0m   [0;1mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 18:49:44) [GET]
+Rendering say/hello
+Completed in 4ms (View: 1, DB: 2) | 200 OK [http://localhost/Say/hello]
+  [4;35;1mSQL (0.8ms)[0m   [0mSET client_min_messages TO 'panic'[0m
+  [4;36;1mSQL (0.3ms)[0m   [0;1mSET client_min_messages TO 'notice'[0m
+  [4;35;1mSQL (0.5ms)[0m   [0mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 18:49:56) [GET]
+Rendering say/hello
+Completed in 9ms (View: 7, DB: 2) | 200 OK [http://localhost/Say/hello]
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSET client_min_messages TO 'notice'[0m
+  [4;36;1mSQL (0.9ms)[0m   [0;1mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 18:50:56) [GET]
+Rendering say/hello
+Completed in 17ms (View: 12, DB: 2) | 200 OK [http://localhost/Say/hello]
+  [4;35;1mSQL (0.6ms)[0m   [0mSET client_min_messages TO 'panic'[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET client_min_messages TO 'notice'[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 18:50:57) [GET]
+Rendering say/hello
+Completed in 4ms (View: 1, DB: 2) | 200 OK [http://localhost/Say/hello]
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (0.6ms)[0m   [0mSET client_min_messages TO 'notice'[0m
+  [4;36;1mSQL (0.8ms)[0m   [0;1mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 18:55:16) [GET]
+Rendering say/hello
+Completed in 9ms (View: 6, DB: 2) | 200 OK [http://localhost/Say/hello]
+  [4;35;1mSQL (0.6ms)[0m   [0mSET client_min_messages TO 'panic'[0m
+  [4;36;1mSQL (0.5ms)[0m   [0;1mSET client_min_messages TO 'notice'[0m
+  [4;35;1mSQL (1.2ms)[0m   [0mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 19:00:09) [GET]
+Rendering say/hello
+Completed in 9ms (View: 7, DB: 2) | 200 OK [http://localhost/Say/hello]
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET client_min_messages TO 'panic'[0m
+  [4;35;1mSQL (0.4ms)[0m   [0mSET client_min_messages TO 'notice'[0m
+  [4;36;1mSQL (0.6ms)[0m   [0;1mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 19:00:11) [GET]
+Rendering say/hello
+Completed in 4ms (View: 1, DB: 2) | 200 OK [http://localhost/Say/hello]
+  [4;35;1mSQL (0.6ms)[0m   [0mSET client_min_messages TO 'panic'[0m
+  [4;36;1mSQL (0.7ms)[0m   [0;1mSET client_min_messages TO 'notice'[0m
+  [4;35;1mSQL (0.7ms)[0m   [0mSET client_encoding TO 'unicode'[0m
+
+
+Processing SayController#hello (for 127.0.0.1 at 2009-12-13 19:00:12) [GET]
+Rendering say/hello
+Completed in 4ms (View: 1, DB: 2) | 200 OK [http://localhost/Say/hello]

@@ -15,9 +15,13 @@ and open the template in the editor.
       <li> Time in one hour: <%= 1.hour.from_now %> </li>
     </ul>
 
-<% 3.times do  %>
+<% 3.times do %>
 Ho! <br />
 <% end %>
 Merry Christmas!
+It is now <%= Time.now %>
+<p>
+It is now<%=@time %>
+</p>
   </body>
 </html>
